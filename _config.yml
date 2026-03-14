@@ -1,7 +1,7 @@
 title: Math Blog
 description: 数学与思考
 baseurl: ""
-url: "https://mj.github.io"
+url: "https://infiniteMJ.github.io"
 
 markdown: kramdown
 kramdown:
